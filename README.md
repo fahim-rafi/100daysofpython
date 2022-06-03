@@ -8,3 +8,4 @@
 - Day 09: Upgraded the code behind the calculator app
 - Day 10: Simple BlackJack game [Status: Incomplete]
 - Day 11: Simple number guessing game
+- Day 12:
